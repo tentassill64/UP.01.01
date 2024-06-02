@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище UPModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Agents">
+    <Key>
+      <PropertyRef Name="AgentID" />
+    </Key>
+    <Property Name="AgentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AgentType" Type="nvarchar" MaxLength="255" />
+    <Property Name="AgentName" Type="nvarchar" MaxLength="255" />
+    <Property Name="Email" Type="nvarchar" MaxLength="255" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="255" />
+    <Property Name="Logo" Type="nvarchar" MaxLength="255" />
+    <Property Name="LegalAddress" Type="nvarchar" MaxLength="255" />
+    <Property Name="Priority" Type="int" />
+    <Property Name="Director" Type="nvarchar" MaxLength="255" />
+    <Property Name="INN" Type="nvarchar" MaxLength="20" />
+    <Property Name="KPP" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" MaxLength="255" />
+    <Property Name="ProductType" Type="nvarchar" MaxLength="255" />
+    <Property Name="SKU" Type="nvarchar" MaxLength="50" />
+    <Property Name="NumberOfPeople" Type="int" />
+    <Property Name="WorkshopNumber" Type="int" />
+    <Property Name="MinimumPrice" Type="decimal" Precision="10" Scale="2" />
+  </EntityType>
+  <EntityType Name="ProductSales">
+    <Key>
+      <PropertyRef Name="SaleID" />
+    </Key>
+    <Property Name="SaleID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductID" Type="int" />
+    <Property Name="AgentID" Type="int" />
+    <Property Name="SaleDate" Type="date" />
+    <Property Name="Quantity" Type="int" />
+  </EntityType>
+  <Association Name="FK__ProductSa__Agent__286302EC">
+    <End Role="Agents" Type="Self.Agents" Multiplicity="0..1" />
+    <End Role="ProductSales" Type="Self.ProductSales" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Agents">
+        <PropertyRef Name="AgentID" />
+      </Principal>
+      <Dependent Role="ProductSales">
+        <PropertyRef Name="AgentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductSa__Produ__29572725">
+    <End Role="Products" Type="Self.Products" Multiplicity="0..1" />
+    <End Role="ProductSales" Type="Self.ProductSales" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="ProductSales">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище UPModelContainer">
+    <EntitySet Name="Agents" EntityType="Self.Agents" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductSales" EntityType="Self.ProductSales" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__ProductSa__Agent__286302EC" Association="Self.FK__ProductSa__Agent__286302EC">
+      <End Role="Agents" EntitySet="Agents" />
+      <End Role="ProductSales" EntitySet="ProductSales" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductSa__Produ__29572725" Association="Self.FK__ProductSa__Produ__29572725">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="ProductSales" EntitySet="ProductSales" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

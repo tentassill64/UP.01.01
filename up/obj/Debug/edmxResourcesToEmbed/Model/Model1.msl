@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище UPModelContainer" CdmEntityContainer="UPEntities1">
+    <EntitySetMapping Name="Agents">
+      <EntityTypeMapping TypeName="UPModel.Agents">
+        <MappingFragment StoreEntitySet="Agents">
+          <ScalarProperty Name="AgentID" ColumnName="AgentID" />
+          <ScalarProperty Name="AgentType" ColumnName="AgentType" />
+          <ScalarProperty Name="AgentName" ColumnName="AgentName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+          <ScalarProperty Name="LegalAddress" ColumnName="LegalAddress" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+          <ScalarProperty Name="Director" ColumnName="Director" />
+          <ScalarProperty Name="INN" ColumnName="INN" />
+          <ScalarProperty Name="KPP" ColumnName="KPP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="UPModel.Products">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="ProductType" ColumnName="ProductType" />
+          <ScalarProperty Name="SKU" ColumnName="SKU" />
+          <ScalarProperty Name="NumberOfPeople" ColumnName="NumberOfPeople" />
+          <ScalarProperty Name="WorkshopNumber" ColumnName="WorkshopNumber" />
+          <ScalarProperty Name="MinimumPrice" ColumnName="MinimumPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductSales">
+      <EntityTypeMapping TypeName="UPModel.ProductSales">
+        <MappingFragment StoreEntitySet="ProductSales">
+          <ScalarProperty Name="SaleID" ColumnName="SaleID" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="AgentID" ColumnName="AgentID" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

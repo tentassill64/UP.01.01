@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|c:\\users\\vladm\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CC57EB-010D-46DE-B8EB-07F6FA78D417}|Tests\\Tests.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CC57EB-010D-46DE-B8EB-07F6FA78D417}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C438E5-C452-498D-96D2-038897E1327F}|WSUniversalLib\\WSUniversalLib.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\wsuniversallib\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C438E5-C452-498D-96D2-038897E1327F}|WSUniversalLib\\WSUniversalLib.csproj|solutionrelative:wsuniversallib\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\addagent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\addagent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\addagent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\addagent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\changepriority.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\changepriority.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\e5856b8be9e50006e6706d0dff52919105ea710d3b10d5b2e6692e9014d697ba\\File.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|up||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladm\\AppData\\Local\\SourceServer\\fffd7ca88629ad407ac1a4915edce3930cde2ebfbdf6157a6704d18736ba1f7a\\src\\EntityFramework\\Internal\\LazyInternalContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\c94cf369a084e60e894ff27282de5fdb651802e293d2208ac177995f379b0014\\Enumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\changepriority.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\changepriority.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\model\\productsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\model\\productsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\model\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\model\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\model\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\model\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\model\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\model\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\\u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0439 \u0448\u0435\u043B\u0435\u0441\u0442.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AEF81354-5620-4A88-B046-B099C23B7935}|up\\up.csproj|solutionrelative:up\\\u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0439 \u0448\u0435\u043B\u0435\u0441\u0442.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\packages\\ModernWpfUI.0.9.6\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\ModernWpfUI.0.9.6\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAgent.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\AddAgent.xaml.cs",
+              "RelativeDocumentMoniker": "up\\AddAgent.xaml.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\AddAgent.xaml.cs",
+              "RelativeToolTip": "up\\AddAgent.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wEUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:56:01.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "up\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\MainWindow.xaml.cs",
+              "RelativeToolTip": "up\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAYwHsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:16:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\WSUniversalLib\\Calculation.cs",
+              "RelativeDocumentMoniker": "WSUniversalLib\\Calculation.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\WSUniversalLib\\Calculation.cs",
+              "RelativeToolTip": "WSUniversalLib\\Calculation.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:59:00.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAqwN4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:09:43.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddAgent.xaml",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\AddAgent.xaml",
+              "RelativeDocumentMoniker": "up\\AddAgent.xaml",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\AddAgent.xaml",
+              "RelativeToolTip": "up\\AddAgent.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T20:13:08.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "up\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\MainWindow.xaml",
+              "RelativeToolTip": "up\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T07:16:42.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "\u041F\u0440\u0438\u044F\u0442\u043D\u044B\u0439 \u0448\u0435\u043B\u0435\u0441\u0442.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\\u041F\u0440\u0438\u044F\u0442\u043D\u044B\u0439 \u0448\u0435\u043B\u0435\u0441\u0442.ico",
+              "RelativeDocumentMoniker": "up\\\u041F\u0440\u0438\u044F\u0442\u043D\u044B\u0439 \u0448\u0435\u043B\u0435\u0441\u0442.ico",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\\u041F\u0440\u0438\u044F\u0442\u043D\u044B\u0439 \u0448\u0435\u043B\u0435\u0441\u0442.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "up\\\u041F\u0440\u0438\u044F\u0442\u043D\u044B\u0439 \u0448\u0435\u043B\u0435\u0441\u0442.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-05-17T14:35:35.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangePriority.xaml",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\ChangePriority.xaml",
+              "RelativeDocumentMoniker": "up\\ChangePriority.xaml",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\ChangePriority.xaml",
+              "RelativeToolTip": "up\\ChangePriority.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T18:14:21.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\App.config",
+              "RelativeDocumentMoniker": "up\\App.config",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\App.config",
+              "RelativeToolTip": "up\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-19T15:34:35.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "up",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\up.csproj",
+              "RelativeDocumentMoniker": "up\\up.csproj",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\up.csproj",
+              "RelativeToolTip": "up\\up.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T13:26:26.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangePriority.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\ChangePriority.xaml.cs",
+              "RelativeDocumentMoniker": "up\\ChangePriority.xaml.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\ChangePriority.xaml.cs",
+              "RelativeToolTip": "up\\ChangePriority.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:21:14.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "__Error.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs",
+              "ToolTip": "C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAtwIQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:26:55.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAUwHcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:33:21.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\e5856b8be9e50006e6706d0dff52919105ea710d3b10d5b2e6692e9014d697ba\\File.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e5856b8be9e50006e6706d0dff52919105ea710d3b10d5b2e6692e9014d697ba\\File.cs",
+              "ToolTip": "C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\e5856b8be9e50006e6706d0dff52919105ea710d3b10d5b2e6692e9014d697ba\\File.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e5856b8be9e50006e6706d0dff52919105ea710d3b10d5b2e6692e9014d697ba\\File.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAUwNAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:07:07.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LazyInternalContext.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\AppData\\Local\\SourceServer\\fffd7ca88629ad407ac1a4915edce3930cde2ebfbdf6157a6704d18736ba1f7a\\src\\EntityFramework\\Internal\\LazyInternalContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\fffd7ca88629ad407ac1a4915edce3930cde2ebfbdf6157a6704d18736ba1f7a\\src\\EntityFramework\\Internal\\LazyInternalContext.cs",
+              "ToolTip": "C:\\Users\\vladm\\AppData\\Local\\SourceServer\\fffd7ca88629ad407ac1a4915edce3930cde2ebfbdf6157a6704d18736ba1f7a\\src\\EntityFramework\\Internal\\LazyInternalContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\fffd7ca88629ad407ac1a4915edce3930cde2ebfbdf6157a6704d18736ba1f7a\\src\\EntityFramework\\Internal\\LazyInternalContext.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAI0BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:49:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enumerable.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\c94cf369a084e60e894ff27282de5fdb651802e293d2208ac177995f379b0014\\Enumerable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c94cf369a084e60e894ff27282de5fdb651802e293d2208ac177995f379b0014\\Enumerable.cs",
+              "ToolTip": "C:\\Users\\vladm\\AppData\\Local\\Temp\\.vsdbgsrc\\c94cf369a084e60e894ff27282de5fdb651802e293d2208ac177995f379b0014\\Enumerable.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c94cf369a084e60e894ff27282de5fdb651802e293d2208ac177995f379b0014\\Enumerable.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAALIFAAAAAAAAAAAtwMIFAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:56:09.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\App.xaml",
+              "RelativeDocumentMoniker": "up\\App.xaml",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\App.xaml",
+              "RelativeToolTip": "up\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T07:18:21.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductSales.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\ProductSales.cs",
+              "RelativeDocumentMoniker": "up\\Model\\ProductSales.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\ProductSales.cs",
+              "RelativeToolTip": "up\\Model\\ProductSales.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:08:29.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\packages\\ModernWpfUI.0.9.6\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\ModernWpfUI.0.9.6\\readme.txt",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\packages\\ModernWpfUI.0.9.6\\readme.txt",
+              "RelativeToolTip": "packages\\ModernWpfUI.0.9.6\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-17T07:18:10.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Products.cs",
+              "RelativeDocumentMoniker": "up\\Model\\Products.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Products.cs",
+              "RelativeToolTip": "up\\Model\\Products.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:08:47.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Agents.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Agents.cs",
+              "RelativeDocumentMoniker": "up\\Model\\Agents.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Agents.cs",
+              "RelativeToolTip": "up\\Model\\Agents.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:57:21.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "up\\Model\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Model1.Context.cs",
+              "RelativeToolTip": "up\\Model\\Model1.Context.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:11:16.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\App.xaml.cs",
+              "RelativeDocumentMoniker": "up\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\App.xaml.cs",
+              "RelativeToolTip": "up\\App.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:26:40.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Model1.cs",
+              "RelativeDocumentMoniker": "up\\Model\\Model1.cs",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Model1.cs",
+              "RelativeToolTip": "up\\Model\\Model1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:18:21.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "up\\Model\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Model1.Context.tt",
+              "RelativeToolTip": "up\\Model\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-19T15:37:13.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\packages.config",
+              "RelativeDocumentMoniker": "up\\packages.config",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\packages.config",
+              "RelativeToolTip": "up\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-19T15:38:37.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "up\\Model\\Model1.edmx",
+              "ToolTip": "C:\\Users\\vladm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hh\\up\\up\\Model\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "up\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-19T15:31:55.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

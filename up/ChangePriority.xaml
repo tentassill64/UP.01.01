@@ -1,0 +1,16 @@
+﻿<Window x:Class="up.ChangePriority"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:up"
+        mc:Ignorable="d"
+        Title="ChangePriority" Height="200" Width="300">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Изменить приоритет на"/>
+            <TextBox x:Name="changePrior"/>
+            <Button Click="ChangeButton_Click" HorizontalAlignment="Center" Margin="0,10,0,0" Content="Изменить"/>
+        </StackPanel>
+    </Grid>
+</Window>
